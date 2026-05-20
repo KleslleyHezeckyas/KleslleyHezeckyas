@@ -23,10 +23,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KleslleyHezeckyas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleslleyHezeckyas&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KleslleyHezeckyas&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KleslleyHezeckyas&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
 <p align="center">
   <sub>Estatísticas baseadas em commits, linguagens e atividade real no GitHub.</sub>
 </p>
@@ -70,3 +69,5 @@
 <p align="center">
   <em>“Engineering systems that scale with clarity.”</em>
 </p>
+
+
