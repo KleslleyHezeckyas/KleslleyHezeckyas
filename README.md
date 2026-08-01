@@ -8,14 +8,14 @@
 
 ---
 
-## ⚙️ Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,go,spring,aws,docker,postgres,git,github" />
 </p>
 
 <p align="center">
-  <sub>Foco em backend moderno, APIs escaláveis e arquitetura em nuvem.</sub>
+  <sub>Focused on modern backend, scalable APIs, and cloud architecture.</sub>
 </p>
 
 ---
@@ -23,45 +23,47 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=KleslleyHezeckyas&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=KleslleyHezeckyas&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="150" />
+  &nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KleslleyHezeckyas&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
 <p align="center">
-  <sub>Estatísticas baseadas em commits, linguagens e atividade real no GitHub.</sub>
+  <sub>Developing Backend Engineer focused on scalable systems, RESTful APIs, and software engineering best practices.</sub>
+</p>
+
+<p align="center">
+  <strong>Clean Code • Performance • Simplicity • Scalability</strong>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
-
-<p align="center">
-  <sub>Backend Engineer em evolução, focado em sistemas escaláveis, APIs REST e boas práticas de engenharia de software.</sub>
-</p>
-
-<p align="center">
-  <strong>Clean Code • Performance • Simplicidade • Escalabilidade</strong>
-</p>
-
----
-
-## 🚀 Foco atual
+## 🚀 Current Focus
 
 <p align="center">
   <sub>
-  • Spring Boot para APIs robustas<br>
-  • Go para serviços leves e performáticos<br>
-  • AWS (EC2, S3, deploy básico)<br>
-  • Banco de dados relacionais (PostgreSQL / MySQL)
+  • Spring Boot for robust APIs<br>
+  • Go for lightweight and high-performance services<br>
+  • AWS (EC2, S3, core deployment)<br>
+  • Relational Databases (PostgreSQL / MySQL)
   </sub>
 </p>
 
 ---
 
-## 📫 Contato
+## 📫 Connect with Me
 
 <p align="center">
-  📧 <a href="mailto:kleslleylima7@gmail.com">kleslleylima7@gmail.com</a> • 
-  🔵 <a href="https://www.linkedin.com/in/kleslley-hezeckyas/">linkedin.com/in/kleslley-hezeckyas</a>
+  <a href="mailto:kleslleylima7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kleslley-hezeckyas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -69,5 +71,3 @@
 <p align="center">
   <em>“Engineering systems that scale with clarity.”</em>
 </p>
-
-
